@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss(),
   ],
-  base: '/Finance-Dashboard-UI',
+  base: '/transactions',
 })
