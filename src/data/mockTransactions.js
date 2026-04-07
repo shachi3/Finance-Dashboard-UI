@@ -1,0 +1,17 @@
+export const mockTransactions = [
+ { id: 1, date: "2026-01-01", amount: 65000, category: "Salary", type: "income" },
+ { id: 3, date: "2026-01-05", amount: 3500, category: "Groceries", type: "expense" },
+ { id: 4, date: "2026-01-07", amount: 1200, category: "Electricity Bill", type: "expense" },
+ { id: 5, date: "2026-01-10", amount: 799, category: "Internet", type: "expense" },
+ { id: 6, date: "2026-01-12", amount: 2000, category: "Transport", type: "expense" },
+ { id: 8, date: "2026-01-18", amount: 1500, category: "Dining Out", type: "expense" },
+ { id: 9, date: "2026-01-20", amount: 999, category: "Netflix", type: "expense" },
+ { id: 10, date: "2026-01-22", amount: 2000, category: "Shopping", type: "expense" },
+ { id: 11, date: "2026-02-01", amount: 65000, category: "Salary", type: "income" },
+ { id: 13, date: "2026-02-05", amount: 3200, category: "Groceries", type: "expense" },
+ { id: 15, date: "2026-02-14", amount: 1800, category: "Travel", type: "expense" },
+ { id: 16, date: "2026-02-18", amount: 1200, category: "Gym", type: "expense" },
+ { id: 17, date: "2026-03-01", amount: 65000, category: "Salary", type: "income" },
+ { id: 18, date: "2026-03-05", amount: 4000, category: "Groceries", type: "expense" },
+ { id: 19, date: "2026-03-08", amount: 2500, category: "Insurance", type: "expense" },
+];

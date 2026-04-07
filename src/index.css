@@ -1,1 +1,10 @@
 @import "tailwindcss";
+
+body {
+  @apply bg-zinc-950 text-white font-sans;
+}
+
+/* Scrollbar hidden */
+::-webkit-scrollbar {
+  display: none;
+}

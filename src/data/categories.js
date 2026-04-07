@@ -1,0 +1,18 @@
+export const categories = [
+ "Salary",
+ "Freelance",
+ "Rent",
+ "Groceries",
+ "Transport",
+ "Dining Out",
+ "Shopping",
+ "Bills",
+ "Electricity Bill",
+ "Internet",
+ "Travel",
+ "Gym",
+ "Netflix",
+ "Insurance",
+ "Investment",
+ "Laptop EMI",
+];
